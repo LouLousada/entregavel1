@@ -102,7 +102,7 @@ function Contador() {
   }
   
   //ativando as funções:
-  //Contador();
+  Contador();
   //Fibonacci();
   //MDC();
   //Ordenagem();
